@@ -1,0 +1,4 @@
+train: ./train/images 
+val: ./valid/images  
+nc: 10 
+names: ['Auto_Rickshaw','Bicycle','Bike','Bus','Car','Cycle_Rickshaw','Scooter','Tempo','Tractor','Truck']
