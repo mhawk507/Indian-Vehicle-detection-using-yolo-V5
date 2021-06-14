@@ -1,5 +1,6 @@
 ------------ Indian Vehicle Detection using YOLO V5 ---------------------
-Using the given dataset and the wieghts you can detect following type of vehicles :
+
+Using the given dataset and the weights you can detect following type of vehicles :
   'Auto_Rickshaw','Bicycle','Bike','Bus','Car','Cycle_Rickshaw','Scooter','Tempo','Tractor','Truck'
 
 Steps to use this repository:
